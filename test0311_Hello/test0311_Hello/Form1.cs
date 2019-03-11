@@ -16,6 +16,7 @@ namespace test0311_Hello {
 
         private void button1_Click(object sender, EventArgs e) {
             button1.Text = "Hello";
+            // button2 branch
             // master
         }
 
